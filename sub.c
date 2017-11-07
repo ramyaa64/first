@@ -7,4 +7,5 @@ a=10;
 b=6;
 c=a-b;
 cout<<"answer"<<c;
+//everything is fine
 }
